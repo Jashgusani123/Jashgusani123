@@ -4,9 +4,9 @@
 </div>
 
 ###
-## Profile View
-<br clear="both">
 
+<br clear="both">
+## Profile View
 <img align="left" src="https://profile-counter.glitch.me/Jashgusani123/count.svg?"  />
 
 ###
