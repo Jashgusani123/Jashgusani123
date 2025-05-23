@@ -5,9 +5,9 @@
 
 ###
 
-<br clear="both">
+<br clear="both" style="flex justify-center">
 <h1>Profile View</h1>
-<img align="left" src="https://profile-counter.glitch.me/Jashgusani123/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/Jashgusani123/count.svg?"  />
 
 ###
 <picture>
