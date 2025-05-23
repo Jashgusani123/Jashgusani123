@@ -43,10 +43,12 @@
 
 
 ### 🔗 Connect with me
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://linkedin.com/in/jashgusani91" target="_blank" style="display: flex; align-items: center; text-decoration:"none";>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashgusani91" height="30" width="40" />
-  </a>
-  <span>Jash Gusani</span>
-</p>
+
+
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashgusani91" height="30" width="40" />
+  <a href="https://linkedin.com/in/jashgusani91" target="_blank" class="text-decoration: none">Jash Gusani</a>
+</div>
+
+
 
