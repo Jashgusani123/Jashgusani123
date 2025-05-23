@@ -14,3 +14,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashgusani123&show_icons=true&locale=en" alt="jashgusani123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashgusani123&" alt="jashgusani123" /></p>
+
+<div align="center">
+
+### 🐍 GitHub Snake Animation (Auto-updating)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Profile Views</h1>
+  <img src="https://profile-counter.glitch.me/Jashgusani123/count.svg?" alt="Visitor Count" />
+</div>
