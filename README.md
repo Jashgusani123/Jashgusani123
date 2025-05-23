@@ -1,17 +1,22 @@
 ## Hi there 👋
 
-<div align="left">
-</div>
+<br>
 
-###
+<div align="center">
 
-<br clear="both" style="flex justify-center">
-<h1>Profile View</h1>
-<img align="right" src="https://profile-counter.glitch.me/Jashgusani123/count.svg?"  />
+### 🐍 GitHub Snake Animation (Auto-updating)
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Profile Views</h1>
+  <img src="https://profile-counter.glitch.me/Jashgusani123/count.svg?" alt="Visitor Count" />
+</div>
