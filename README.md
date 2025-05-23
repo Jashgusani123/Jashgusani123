@@ -6,7 +6,7 @@
 ###
 
 <br clear="both">
-## Profile View
+<h1>Profile View</h1>
 <img align="left" src="https://profile-counter.glitch.me/Jashgusani123/count.svg?"  />
 
 ###
