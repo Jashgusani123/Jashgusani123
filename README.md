@@ -1,7 +1,7 @@
 <p align="left" style="display: flex; align-items: center;">
-  <h1><p style="font-size: 10px; font-weight: bold; line-height: 40px;">Hello 👋, I am</p>
+  <h1><p style="font-size: 10px; color:ffd5ab ; font-weight: bold; line-height: 40px;">Hello 👋🏻, I am</p>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&right=false&vCenter=true&width=250&height=40&lines=Jash+Gusani" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fce2c7&right=false&vCenter=true&width=250&height=40&lines=Jash+Gusani" 
     alt="Typing Name" 
     style="vertical-align: middle;"
   /></h1>
