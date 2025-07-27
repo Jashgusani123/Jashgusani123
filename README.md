@@ -7,7 +7,7 @@
   /></h1>
 </p>
 <h3 align="left">Full-Stack Developer | Real-Time Application Enthusiast 💻</h3>
-<hr />
+
 
 
 🚀 Passionate about building scalable, performant, and user-centric web applications.  
