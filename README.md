@@ -1,13 +1,13 @@
-#### <p align="left" style="display: flex; align-items: center;">
-  <h3 style="font-size: 30px; font-weight: 600; line-height: 40px;">Hello 👋🏻, I am</h3>
+<p align="left" style="display: flex; align-items: center;">
+  <h1><p style="font-size: 10px; font-weight: bold; line-height: 40px;">Hello 👋, I am</p>
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&right=false&vCenter=true&width=250&height=40&lines=Jash+Gusani" 
     alt="Typing Name" 
     style="vertical-align: middle;"
-  />
+  /></h1>
 </p>
-<hr />
 <h3 align="left">Full-Stack Developer | Real-Time Application Enthusiast 💻</h3>
+<hr />
 
 
 🚀 Passionate about building scalable, performant, and user-centric web applications.  
