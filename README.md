@@ -1,29 +1,67 @@
-<h1 align="left">Hi 👋, I'm Jash Gusani</h1>
-<h3 align="left">Passionate About Full-Stack Development And Real-Time Applications 💻</h3>
-<p>🚀 Building scalable, performant web applications with a focus on seamless user experience.</p>
-<p>⚡ Expertise in both frontend and backend technologies to deliver end-to-end solutions.</p>
-<p>🌐 Lover of real-time features that keep users connected and engaged.</p>
-<p>💡 Always eager to learn new tools and improve development workflows.</p>
-<p>🤝 Collaborating on open-source projects and sharing knowledge with the dev community.</p>
+#### <p align="left" style="display: flex; align-items: center;">
+  <h3 style="font-size: 30px; font-weight: 600; line-height: 40px;">Hello 👋🏻, I am</h3>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&right=false&vCenter=true&width=250&height=40&lines=Jash+Gusani" 
+    alt="Typing Name" 
+    style="vertical-align: middle;"
+  />
+</p>
+<hr />
+<h3 align="left">Full-Stack Developer | Real-Time Application Enthusiast 💻</h3>
+
+
+🚀 Passionate about building scalable, performant, and user-centric web applications.  
+
+⚡ Skilled in frontend and backend technologies to create seamless, end-to-end experiences.  
+
+🌐 Enthusiastic about real-time systems that keep users connected and engaged.  
+
+💡 Always exploring new tools and best practices to improve workflows.  
+
+🤝 Actively contributing to open-source and developer communities.
 
 ---
 
-### Skils🔥
+### 🔥 Skills & Technologies
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/> 
- <img src="https://camo.githubusercontent.com/ecd695fb1ffadab6633f9fcdffaeebc58f3cca722260f0dec7dc607bd9d0e740/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Express_Clothing_Logo.SVG" alt="Express" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Next.js" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-</p>
+#### 🚀 Languages & Technologies
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fadf16?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-071121?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 💻 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-803203?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-fff870?style=for-the-badge&logo=framer&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-### Tools⚙️ 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> <img src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" alt="Git" width="50" height="50"/>  </p>
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ff7b00?style=for-the-badge&logo=firebase&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-181717?style=for-the-badge&logo=cursor&logoColor=white)
 
---- 
+---
+
 ### 🐍 GitHub Activity Snake
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
@@ -33,22 +71,19 @@
 
 ---
 
-### 👁️ Profile Views
+### 📌 Featured Projects
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/Jashgusani123/count.svg?" alt="Visitor Count" />
-</p>
+#### 🚀 [QuickAttend - Smart Attendance System](https://attendance-system-gold-six.vercel.app/)
+> Built with MERN | Secure | Analytics | Real-Time  
+> A role-based attendance platform designed for colleges, with powerful admin tools and student tracking.
 
+#### ♟️ [Chess Online Multiplayer](https://chess-t0e4.onrender.com/)
+> Real-time game using Socket.IO & React  
+> Challenge friends or match with random players in a fully working multiplayer chess experience.
+
+#### 🧠 [Snippetix - AI-Powered Dev Hub ( Ongoing )](https://github.com/Jashgusani123/Snippetix)
+> Your coding companion — get AI code explanations, share code, watch dev tutorials, and stay updated with language trends.
 ---
+### 🔗 Connect With Me
 
-
-### 🔗 Connect with me
-
-
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashgusani91" height="30" width="40" />
-  <a href="https://linkedin.com/in/jashgusani91" target="_blank" class="text-decoration: none">Jash Gusani</a>
-</div>
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gusanijash91)    [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfolio-m9cb.vercel.app/)
