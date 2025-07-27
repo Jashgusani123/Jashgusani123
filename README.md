@@ -6,9 +6,8 @@
     style="vertical-align: middle;"
   /></h1>
 </p>
-<h3 align="left">Full-Stack Developer | Real-Time Application Enthusiast 💻</h3>
 
-
+### Full-Stack Developer | Real-Time Application Enthusiast 💻
 
 🚀 Passionate about building scalable, performant, and user-centric web applications.  
 
@@ -22,7 +21,7 @@
 
 ---
 
-### 🔥 Skills & Technologies
+## 🔥 Skills & Technologies
 
 #### 🚀 Languages & Technologies
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,7 +70,7 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 #### 🚀 [QuickAttend - Smart Attendance System](https://attendance-system-gold-six.vercel.app/)
 > Built with MERN | Secure | Analytics | Real-Time  
@@ -84,6 +83,6 @@
 #### 🧠 [Snippetix - AI-Powered Dev Hub ( Ongoing )](https://github.com/Jashgusani123/Snippetix)
 > Your coding companion — get AI code explanations, share code, watch dev tutorials, and stay updated with language trends.
 ---
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gusanijash91)    [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfolio-m9cb.vercel.app/)
