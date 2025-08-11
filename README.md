@@ -54,7 +54,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ff7b00?style=for-the-badge&logo=firebase&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-181717?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-181717?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
