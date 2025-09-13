@@ -51,6 +51,7 @@
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitPusher](https://img.shields.io/badge/GitPusher-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ff7b00?style=for-the-badge&logo=firebase&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -82,6 +83,11 @@
 
 #### 🧠 [Snippetix - AI-Powered Dev Hub ( Ongoing )](https://github.com/Jashgusani123/Snippetix)
 > Your coding companion — get AI code explanations, share code, watch dev tutorials, and stay updated with language trends.
+
+#### 📦 [GitPusher - Automate GitHub Pushes](https://www.npmjs.com/package/gitpusher)
+> A smart **Node.js package** to automate pushing code to GitHub.  
+> Save time with **one-command commits** and seamless workflow integration.  
+> A **473+ Downloader** in just 3 days, Currently **700+ Downloader** 🔥.
 ---
 ## 🔗 Connect With Me
 
