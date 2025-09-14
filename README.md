@@ -84,7 +84,7 @@
 #### 🧠 [Snippetix - AI-Powered Dev Hub ( Ongoing )](https://github.com/Jashgusani123/Snippetix)
 > Your coding companion — get AI code explanations, share code, watch dev tutorials, and stay updated with language trends.
 
-#### 📦 [GitPusher - Automate GitHub Pushes](https://www.npmjs.com/package/gitpusher)
+#### 📦 [GitPusher - Automate GitHub Pushes](https://www.npmjs.com/package/@jashg91/gitpusher)
 > A smart **Node.js package** to automate pushing code to GitHub.  
 > Save time with **one-command commits** and seamless workflow integration.  
 > A **473+ Downloader** in just 3 days, Currently **700+ Downloader** 🔥.
