@@ -59,19 +59,7 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Jashgusani123/Jashgusani123/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📌 Featured Projects
+## 📌 Projects
 
 #### 🚀 [QuickAttend - Smart Attendance System](https://attendance-system-gold-six.vercel.app/)
 > Built with MERN | Secure | Analytics | Real-Time  
